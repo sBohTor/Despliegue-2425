@@ -1,6 +1,6 @@
 # Docker
 
-## Tarea 1: Arrancar un contenedor
+## Tarea 1: Instalar docker
 
 ![Descripción de la imagen de la Tarea 1](01-01.png)
 
